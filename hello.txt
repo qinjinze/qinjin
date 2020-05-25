@@ -1,1 +1,13 @@
 向本地仓库推送提交hello.go文件
+
+package main
+
+import"fmt"
+
+func main(){
+
+fmt.Plintln("hello world")
+
+}
+
+
